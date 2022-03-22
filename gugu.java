@@ -6,7 +6,7 @@ public class gugu {
 
 	public static void main(String[] args) {
 //		// TODO Auto-generated method stub
-//		System.out.println("�Է� : ");
+//		System.out.println("�Է�입력 : ");
 //		Scanner df = new Scanner(System.in);
 //		int b = df.nextInt();
 //				
